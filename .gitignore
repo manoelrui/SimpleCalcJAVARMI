@@ -1,0 +1,7 @@
+# Binary files
+out/
+src/com/company/
+
+# Intellij files
+.idea/
+CalculadoraRMI.iml
