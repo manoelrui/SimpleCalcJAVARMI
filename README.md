@@ -27,7 +27,7 @@ Inside of folder src/ run the command:
 So, the expected output will be:
 
 ````
-    Adição 45.4 + 60.55 is 105.94999999999999
+    Addition 45.4 + 60.55 is 105.94999999999999
     Subtraction 45.4 - 60.55 is -15.149999999999999
     Multiplication 45.4 * 60.55 is 2748.97
     Division 45.4 / 60.55 is 0.749793559042114
